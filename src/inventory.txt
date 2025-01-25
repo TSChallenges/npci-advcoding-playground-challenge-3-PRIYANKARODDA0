@@ -1,1 +1,1 @@
-Apples: 20
+apple,20
